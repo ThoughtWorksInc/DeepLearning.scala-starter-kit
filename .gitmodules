@@ -1,0 +1,3 @@
+[submodule "FixedLearningRate"]
+	path = FixedLearningRate
+	url = https://gist.github.com/1fb0608c655e3233e68b27ba99515f16.git
