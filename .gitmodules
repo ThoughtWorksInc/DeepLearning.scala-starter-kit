@@ -1,3 +1,6 @@
 [submodule "FixedLearningRate"]
 	path = FixedLearningRate
 	url = https://gist.github.com/1fb0608c655e3233e68b27ba99515f16.git
+[submodule "Adagrad"]
+	path = Adagrad
+	url = https://gist.github.com/89ee1baa4c161b8ccc1b82cdd9c109fe.git
